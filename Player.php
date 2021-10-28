@@ -6,20 +6,26 @@ class Player
     private array $cards;
     private bool $lost = False;
 
-    public function hit()
-    {
+    public function hit($lost) {
+        if () {
+            $this.player + $this.cards;
+        }
+        else {
+            $lost = true;
+        }
     }
 
-    public function surrender()
-    {
+    public function surrender($lost) {
+        $this.lost = true;
     }
 
-    public function getScore()
-    {
+    public function getScore($deck) {
+        foreach;
+        return ($this->cards);
     }
 
-    public function hasLost()
-    {
+    public function hasLost($lost) {
+        return false;
     }
 
     function __construct()

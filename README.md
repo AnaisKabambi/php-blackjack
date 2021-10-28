@@ -26,15 +26,17 @@ This is an [exercise] from my BeCode course. The objective is to learn to work w
    <dl>
    <dt>Instantiate Player</dt>
    <dt>Create deck Object</dt>
-   <dt><u>Shuffle the deck</u></dt>
+   <dt style="text-decoration: underline">Shuffle the deck</dt>
       <dd>What does this even mean??</dd>
    </dl>
 
 4. Constructor Player ✔️ *28.10.2021*
    <dl>
    <dt>Expect Deck object as parameter.</dt>
-   <dt>Pass Deck from Blackjack constructor.</dt>
+   <dt style="text-decoration: underline">Pass Deck from Blackjack constructor.</dt>
       <dd>huh?!</dd>
    <dt>Make player draw 2 cards.</dt>
       <dd>existing method deck class.</dd>
    </dl>
+
+5. Filling empty methods in Player
