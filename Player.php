@@ -2,11 +2,11 @@
 
 class Player
 {
-private array $cards;
-private bool $lost = False;
+    private array $cards;
+    private bool $lost = False;
 
-function hit () {}
-function surrender () {}
-function getScore () {}
-function hasLost () {}
+    public function hit () {}
+    public function surrender () {}
+    public function getScore () {}
+    public function hasLost () {}
 }
