@@ -13,6 +13,11 @@ class Blackjack
         return $dealer;
     }
     public function getDeck ($deck) {
-        return deck;
+        return $deck;
+    }
+    function __construct() {
+        $this->player = new ClassName(Player::class);
+        $this->dealer = new ClassName(Player::class);
     }
 }
+
