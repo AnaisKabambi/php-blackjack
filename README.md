@@ -39,4 +39,7 @@ This is an [exercise] from my BeCode course. The objective is to learn to work w
       <dd>existing method deck class.</dd>
    </dl>
 
-5. Filling empty methods in Player
+5. Filling empty methods in Player ✖️ *28.10.2021*
+   <dl>
+   <dd>THIS NEEDS A VERY GOOD LOOK AT! <br> PROBABLY ALL WRONG.</dd>
+   </dl>
