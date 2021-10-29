@@ -43,3 +43,5 @@ This is an [exercise] from my BeCode course. The objective is to learn to work w
    <dl>
    <dd>THIS NEEDS A VERY GOOD LOOK AT! <br> PROBABLY ALL WRONG.</dd>
    </dl>
+
+6. Making index.php ✔️ *29.10.2021*

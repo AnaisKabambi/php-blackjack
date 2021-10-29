@@ -1,14 +1,9 @@
 <?php
 
-declare(strict_types=1);
-
-require 'Suit.php';
 require 'Card.php';
+require 'Player.php';
+require 'Blackjack.php';
 require 'Deck.php';
+require 'Suit.php';
 
-$deck = new Deck();
-$deck->shuffle();
-foreach ($deck->getCards() as $card) {
-    echo $card->getUnicodeCharacter(true);
-    echo '<br>';
-}
+session_start()
